@@ -16,4 +16,4 @@ function SumDigits(inputNum)
     return sumOfDigit;
 
 }
-console.log("The sum of digits is : ", SumDigits(2456));
+console.log("The sum of the digits (2456) is : ", SumDigits(2456));
